@@ -1,6 +1,6 @@
 # Calculator-Acitve
 
-https://alrfati-hazem.github.io/Calculator-Acitve/
+https://alrfati-hazem.github.io/Calculator/
 
 ## Technology:
 ### HTML
